@@ -1,6 +1,6 @@
 # Codegoda
 
-List of problems appeared in Codegoda by year.
+List of problems appeared in Codegoda by year. For more information about Codegoda, visit [codegoda.io](https://codegoda.io/).
 
 ## 2023
 
