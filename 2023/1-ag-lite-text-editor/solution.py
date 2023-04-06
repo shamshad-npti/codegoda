@@ -1,3 +1,9 @@
+"""
+Approach: Ad-hoc
+Time Complexity: O(Kx2^N)
+Space Complexity: O(Kx2^N)
+"""
+
 def main():
     text = input()
     n = int(input())
@@ -17,6 +23,7 @@ def main():
             if len(clipboard) > 1:
                 clipboard.pop()
     return text
+
 
 if __name__ == '__main__':
     main()

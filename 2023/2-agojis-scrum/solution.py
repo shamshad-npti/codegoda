@@ -1,4 +1,11 @@
+"""
+Approach: Heap + Set + Implementation
+Time Complexity: O(QlogQ)
+Space Complexity: O(Q)
+"""
+
 import heapq
+
 
 def main():
     q = int(input())
@@ -24,6 +31,7 @@ def main():
                     total_value -= value
                     added_task.remove(task_id)
     return total_value
+
 
 if __name__ == '__main__':
     print(main())

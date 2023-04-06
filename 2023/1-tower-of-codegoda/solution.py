@@ -1,3 +1,9 @@
+"""
+Approach: Greedy, Reverse Iteration
+Time Complexity: O(N)
+Space Complexity: O(1), O(N) for input
+"""
+
 def main():
     N = int(input())
     bosses = list(map(int, input().split()))
@@ -8,6 +14,7 @@ def main():
             ans += 1
         mx = max(mx, bosses[i])
     return ans
+
 
 if __name__ == "__main__":
     print(main())

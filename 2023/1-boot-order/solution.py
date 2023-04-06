@@ -1,4 +1,12 @@
+"""
+Approach: Topological Sort, Greedy, khan's algorithm
+Time Complexity: O(M + Nlog(M))
+Space Complexity: O(M + N)
+"""
+
+
 import heapq
+
 
 def main():
     M, N = map(int, input().split())
@@ -7,7 +15,7 @@ def main():
     for _ in range(N):
         u, v = map(int, input().split())
         dag[v-1] += [u-1]
-    
+
     outdeg = [0] * M
     for u in range(M):
         for v in dag[u]:
@@ -27,7 +35,8 @@ def main():
             outdeg[v] -= 1
             if outdeg[v] == 0:
                 heapq.heappush(pq, -v)
-    print (*done if len(done) == M else [-1])
+    print(*done if len(done) == M else [-1])
+
 
 if __name__ == '__main__':
     main()

@@ -1,5 +1,12 @@
+"""
+Approach: Graph, DFS, Connected Components, Same Element in Connected Components
+Time Complexity: O(Nlog(N) + M)
+Space Complexity: O(N + M)
+"""
+
 import sys
 sys.setrecursionlimit(10 ** 6)
+
 
 def dfs(u, graph, visited, nodes):
     visited[u] = True
@@ -7,6 +14,7 @@ def dfs(u, graph, visited, nodes):
     for v in graph[u]:
         if not visited[v]:
             dfs(v, graph, visited, nodes)
+
 
 def main():
     T = int(input())
@@ -19,7 +27,7 @@ def main():
             u, v = map(int, input().split())
             graph[u-1].append(v-1)
             graph[v-1].append(u-1)
-        
+
         visited = [False]*N
         for u in range(N):
             if not visited[u]:

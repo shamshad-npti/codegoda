@@ -1,3 +1,9 @@
+"""
+Approach: Ad-hoc
+Time Complexity: O(sqrt(Y) + N)
+Space Complexity: O(sqrt(Y) + N)
+"""
+
 def main():
     Y, N = map(int, input().split())
     islands = list(map(int, input().split()))
@@ -20,6 +26,7 @@ def main():
         subset_sum |= {factor + x for x in subset_sum}
 
     return [i + 1 for i in range(N) if islands[i] in subset_sum]
+
 
 if __name__ == '__main__':
     result = main()
