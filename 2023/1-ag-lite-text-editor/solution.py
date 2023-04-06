@@ -1,7 +1,7 @@
 """
 Approach: Ad-hoc
-Time Complexity: O(Kx2^N)
-Space Complexity: O(Kx2^N)
+Time Complexity: O(length(text)x2^N)
+Space Complexity: O(length(text)x2^N)
 """
 
 def main():
