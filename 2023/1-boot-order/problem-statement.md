@@ -13,7 +13,7 @@ Task B depends on Task C. 
 
 Task C depends on Task A. 
 
-![Boot Order Test Case 1]()
+![Boot Order Test Case 1](assets/boot_order_1.png)
 
 For the above case, the validation should fail, because, before A runs, B must run and before C runs, A must run, so we are stuck in a loop.  
 
@@ -57,7 +57,7 @@ The list of tasks in the order that they should run, separated by space. If task
 ### Explanation
 Tasks 4 and 6 do not have any dependencies. As task 6 has a higher priority, it will be executed first. However, once task 6 is completed, task 5 cannot be started as it is dependent on task 4 which has not yet finished. Therefore, the correct order of execution is `6, 4, 5, 3, 2, 1`.
 
-![Boot Order Test Case 1]()
+![Boot Order Test Case 1](assets/boot_order_4.png)
 
 ### Sample Input
 ```
@@ -75,7 +75,7 @@ Task 1 depends on 2 and task 2 depends on 3, if task 1 tries to run, it first ne
 
 Validation failed because there is circular dependency between tasks, so we output -1. 
 
-![Boot Order Test Case 2]()
+![Boot Order Test Case 2](assets/boot_order_2.png)
 
 ### Sample Input
 ```
@@ -96,4 +96,4 @@ Validation failed because there is circular dependency between tasks, so we outp
 ### Explanation
 For this example, task 6 will run first since it is the only task that does not depend on any other tasks, after task 6 is successful, task 4 or task 5 are available to run but since task 5 has higher priority, it will run next, after task 5 is successful, task 3 and task 4 are available to run. Task 4 has higher priority so it runs next, after task 4 is successful only task 3 can run, then task 2 and then task 1. So, the output according to the sequence is  `6, 5, 4, 3, 2, 1`.
 
-![Boot Order Test Case 2]()
+![Boot Order Test Case 2](assets/boot_order_3.png)
