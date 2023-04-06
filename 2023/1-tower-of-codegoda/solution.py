@@ -1,5 +1,13 @@
 def main():
-    pass
+    N = int(input())
+    bosses = list(map(int, input().split()))
+    subord = list(map(int, input().split()))
+    mx, ans = 0, 0
+    for i in range(N-1, -1, -1):
+        if subord[i] >= mx:
+            ans += 1
+        mx = max(mx, bosses[i])
+    return ans
 
-if __name__ == '__main__':
-    main()
+if __name__ == "__main__":
+    print(main())
