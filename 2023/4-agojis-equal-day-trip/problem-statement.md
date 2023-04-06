@@ -45,9 +45,7 @@ Paris 3 80
 
 ### Explanation
 
-```
 An optimal solution is to choose offers 1, 2, 3, and 5, allowing Mr. Agoji to spend three days each in New York City, Bangkok, and Paris for a total of nine days. This approach satisfies all the problem constraints and minimizes the cost of the entire trip, which comes out to be 400. 
-```
 
 ### Sample Input
 
