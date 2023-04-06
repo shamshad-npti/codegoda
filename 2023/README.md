@@ -30,13 +30,14 @@ Please refer to the table below for a summary of the problems featured in the co
 | 12 | Prime Properties | 2 | 19 | Medium | [Problem Statement](2-prime-properties/problem-statement.md) \| [Solution](2-prime-properties/solution.py) |
 | 13 | Who Wins | 2 | 19 | Medium | [Problem Statement](2-who-wins/problem-statement.md) \| [Solution](2-who-wins/solution.py) |
 | 14 | 100 Under 40 | 3 | 33 | Medium-Hard | [Problem Statement](3-100-under-40/problem-statement.md) \| [Solution](3-100-under-40/solution.py) |
-| 15 | Can Alice Finish The Game | 3 | 33 | Medium-Hard | [Problem Statement](3-can-alice-finish-the-game/problem-statement.md) \| [Solution](3-can-alice-finish-the-game/solution.py) |
-| 16 | Codegoda Team Selection | 3 | 33 | Medium-Hard | [Problem Statement](3-codegoda-team-selection/problem-statement.md) \| [Solution](3-codegoda-team-selection/solution.py) |
-| 17 | Max Booker | 3 | 33 | Medium-Hard | [Problem Statement](3-max-booker/problem-statement.md) \| [Solution](3-max-booker/solution.py) |
-| 18 | Scale it up | 3 | 33 | Medium-Hard | [Problem Statement](3-scale-it-up/problem-statement.md) \| [Solution](3-scale-it-up/solution.py) |
-| 19 | Agojis Equal Day Trip | 4 | 50 | Hard | [Problem Statement](4-agojis-equal-day-trip/problem-statement.md) \| [Solution](4-agojis-equal-day-trip/solution.py) |
-| 20 | Search Result Ranking | 4 | 50 | Hard | [Problem Statement](4-search-result-ranking/problem-statement.md) \| [Solution](4-search-result-ranking/solution.py) |
-| 21 | Trip Planner | 5 | 76 | Very Hard | [Problem Statement](5-trip-planner/problem-statement.md) \| [Solution](5-trip-planner/solution.py) |
+| 15 | 100 Under 40 | 3 | 33 | Medium-Hard | [Problem Statement](3-agojis-tour-plan/problem-statement.md) \| [Solution](3-agojis-tour-plan/solution.py) |
+| 16 | Can Alice Finish The Game | 3 | 33 | Medium-Hard | [Problem Statement](3-can-alice-finish-the-game/problem-statement.md) \| [Solution](3-can-alice-finish-the-game/solution.py) |
+| 17 | Codegoda Team Selection | 3 | 33 | Medium-Hard | [Problem Statement](3-codegoda-team-selection/problem-statement.md) \| [Solution](3-codegoda-team-selection/solution.py) |
+| 18 | Max Booker | 3 | 33 | Medium-Hard | [Problem Statement](3-max-booker/problem-statement.md) \| [Solution](3-max-booker/solution.py) |
+| 19 | Scale it up | 3 | 33 | Medium-Hard | [Problem Statement](3-scale-it-up/problem-statement.md) \| [Solution](3-scale-it-up/solution.py) |
+| 20 | Agojis Equal Day Trip | 4 | 50 | Hard | [Problem Statement](4-agojis-equal-day-trip/problem-statement.md) \| [Solution](4-agojis-equal-day-trip/solution.py) |
+| 21 | Search Result Ranking | 4 | 50 | Hard | [Problem Statement](4-search-result-ranking/problem-statement.md) \| [Solution](4-search-result-ranking/solution.py) |
+| 22 | Trip Planner | 5 | 76 | Very Hard | [Problem Statement](5-trip-planner/problem-statement.md) \| [Solution](5-trip-planner/solution.py) |
 
 ### Contriution
 
