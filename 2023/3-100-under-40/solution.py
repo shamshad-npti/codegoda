@@ -48,6 +48,7 @@ def strongly_connected_components(graph):
 
 def maximum_reachable_node(graph):
     scc = strongly_connected_components(graph)
+    N = len(graph)
     comp_mappping = [0] * N
     for i, comp in enumerate(scc):
         for u in comp:
@@ -102,4 +103,4 @@ def main():
 
 
 if __name__ == '__main__':
-    print(main(), sep='\n')
+    print(*main(), sep='\n')
