@@ -1,0 +1,13 @@
+10
+a 10
+b 10000
+ca 2
+da 2
+e 10
+nice 10
+hotel 10
+pool 10
+cool 10
+food 20
+nice b hotel b pool
+nice bbb hotel pool

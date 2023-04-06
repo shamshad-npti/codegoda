@@ -1,0 +1,21 @@
+10 10
+12 5 cgh 7519 nhosiza 4 vxr 35 targwuw 4 tizbx 4042
+13 5 vxr 4 snb 8 wnki 612 targwuw 67 gykd 8
+17 3 wnki 4 targwuw 35 mdl 69165
+14 6 cgh 55 vxr 978 snb 741 wnki 6 daxihhex 10 tizbx 4
+11 3 wnki 10 nhosiza 5 daxihhex 89735
+19 5 nhosiza 435 snb 422 wnki 9 daxihhex 2 tizbx 3
+18 6 cgh 3 vxr 6 snb 44 daxihhex 3 targwuw 67 tizbx 5
+15 3 vxr 71 tizbx 10 daxihhex 942
+16 3 cgh 31573 wnki 901 vxr 3
+10 6 cgh 7 snb 4 wnki 7 daxihhex 7 targwuw 5 tizbx 6
+5 nhosiza snb daxihhex targwuw tizbx
+3 cgh wnki daxihhex
+3 targwuw nhosiza vxr
+3 cgh nhosiza vxr
+4 nfio rbxkbbsp cyh wpegjgbs
+5 nhosiza vxr snb daxihhex targwuw
+3 cgh nhosiza tizbx
+3 wnki daxihhex tizbx
+4 cgh wnki vxr daxihhex
+3 cgh nhosiza daxihhex

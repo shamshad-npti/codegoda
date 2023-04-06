@@ -1,0 +1,7 @@
+4
+pool 20
+nice 1000
+water 20000
+hotel 10
+hotela nice pool
+hotelb nizzzce pool water is clean

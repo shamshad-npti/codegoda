@@ -1,0 +1,5 @@
+2
+a 3
+z 5
+aaaz
+zbaaa
