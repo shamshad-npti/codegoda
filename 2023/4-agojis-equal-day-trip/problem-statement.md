@@ -16,11 +16,11 @@ Following that, there are $N$ lines, each consisting of three values separated b
 
 $1 \le N \le 10^5$
 
-city_name is a string consisting of English letters, $1 \le \left|city\_name\right| \le 20$
+city_name is a string consisting of English letters, $1 \le \left|city\text{\_}name\right| \le 20$
 
-$1 \le max\_num\_days \le 10^5$
+$1 \le max\text{\_}num\text{\_}days \le 10^5$
 
-$1 \le cost\_per\_day \le 10^5$
+$1 \le cost\text{\_}per\text{\_}day \le 10^5$
 
 ### Output Format
 
