@@ -14,13 +14,13 @@ Following that, there are $N$ lines, each consisting of three values separated b
 
 ### Constraints
 
-$ after_before $
+$after_before$
 
-$ after\_before $
+$after\_before$
 
-$ after\\_before $
+$after\\_before$
 
-$ after\text{_}before $
+$after\text{_}before$
 
 $1 \le N \le 10^5$
 
