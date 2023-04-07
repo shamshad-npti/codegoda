@@ -27,7 +27,7 @@ $2 \le N \le 10^5$
 
 $0 \le M \le 10^5$
 
-$1 \le type\text{\_}id_i \le 10^9$
+$1 \le type\\_id_i \le 10^9$
 
 $1 \le x \lt y \le N$
 

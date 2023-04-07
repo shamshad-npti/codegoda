@@ -16,7 +16,7 @@ The first line of the input contains an integer $N$, which represents the number
 
 $1 \le N \le 3\times10^5$
 
-$1 \le booker\text{_}id \le 10^7$
+$1 \le booker\\_id \le 10^7$
 
 $1 \le K \le 10^7$
 
