@@ -44,9 +44,11 @@ Please refer to the table below for a summary of the problems featured in the co
 The graphs below present a summary of the submission statistics for the problem. It is important to note that a solution is only considered accepted if it successfully passes all the test cases. The acceptance rate is calculated as the number of accepted submissions divided by the total number of submissions.
 
 **Submission Counts**
+
 ![Submission Statistics](assets/submission-count.png)
 
 **Acceptance Rate\/Succeess Rate**
+
 ![Success Rate](assets/success-rate.png)
 
 ### Difficulty Analysis
