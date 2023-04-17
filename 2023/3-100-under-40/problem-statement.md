@@ -1,3 +1,5 @@
+[Home](../README.md) | [Solution](./solution.py)
+
 ## 100 Under 40
 <sup>Section: 3, Score: 33, Time limit per test: 30 seconds, Memory limit per test: 512MB, Input: stdin, Output: stdout</sup>
 

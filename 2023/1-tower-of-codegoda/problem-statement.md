@@ -1,3 +1,5 @@
+[Home](../README.md) | [Solution](./solution.py)
+
 ## Tower of Codegoda
 <sup>Section: 1, Score: 12, Time limit per test: 30 seconds, Memory limit per test: 512MB, Input: stdin, Output: stdout</sup>
 

@@ -1,3 +1,5 @@
+[Home](../README.md) | [Solution](./solution.py)
+
 ## Who Wins
 
 <sup>Section: 2, Score: 19, Time limit per test: 30 seconds, Memory limit per test: 512MB, Input: stdin, Output: stdout</sup>

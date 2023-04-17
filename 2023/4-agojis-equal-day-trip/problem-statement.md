@@ -1,3 +1,5 @@
+[Home](../README.md) | [Solution](./solution.py)
+
 ## Agoji's Equal-Day Trip
 
 <sup>Section: 4, Score: 50, Time limit per test: 30 seconds, Memory limit per test: 512MB, Input: stdin, Output: stdout</sup>

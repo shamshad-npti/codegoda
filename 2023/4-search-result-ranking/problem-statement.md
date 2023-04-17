@@ -1,3 +1,5 @@
+[Home](../README.md) | [Solution](./solution.py)
+
 ## Search Result Ranking
 
 <sup>Section: 4, Score: 50, Time limit per test: 30 seconds, Memory limit per test: 512MB, Input: stdin, Output: stdout</sup>
